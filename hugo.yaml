@@ -60,13 +60,9 @@ params:
     # Linking options
     intLinkTooltip: true
   flexsearch:
-    enabled: false
-  docsearch:
-    appID: W7TUN7SO8A
-    apiKey: c91351849967a42304bb91d2fc60a0d8
-    indexName: coll
-  feedback:
     enabled: true
+  feedback:
+    enabled: false
     emoticonTpl: false
     eventDest:
       - google
