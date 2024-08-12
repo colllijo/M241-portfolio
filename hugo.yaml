@@ -1,6 +1,6 @@
-baseURL: "https://wiki.coll.dev/"
-languageCode: "en-ch"
-title: "Coll Wiki"
+baseURL: "https://m241.coll.dev/"
+languageCode: "de-ch"
+title: "ePortfolio: Metzger, Liam"
 contentDir: "content"
 enableEmoji: true
 
@@ -12,18 +12,14 @@ module:
     - path: github.com/gohugoio/hugo-mod-bootstrap-scss/v5
       disable: false
 
-defaultContentLanguage: en
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: false
 languages:
-  en:
-    params:
-      disbaled: false
-      languageName: "English"
-      weight: 10
   de:
     params:
       disabled: false
       languageName: "Deutsch"
-      weight: 20
+      weight: 10
 
 markup:
   defaultMarkdownHandler: "goldmark"
@@ -46,7 +42,7 @@ params:
       © :YEAR: Liam Metzger.  
       Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)
   social:
-    github: "colllijo/wiki"
+    github: "colllijo/M241-portfolio"
   docs:
     # Core Options
     pathName: "docs"
@@ -58,7 +54,7 @@ params:
     sidebarIcons: true
     titleIcon: true
     # GitInfo options
-    repoURL: https://github.com/colllijo/wiki
+    repoURL: https://github.com/colllijo/M241-portfolio
     repoBranch: main
     lastMod: true
     # Linking options
@@ -95,4 +91,3 @@ params:
 
 services:
   googleAnalytics:
-    id: "G-J0MTL4YQF1"
