@@ -2,7 +2,7 @@
 weight: 121
 title: "Messenger Wechsel"
 description: "Auf dieser Seite zeige ich einen möglichen Lösungsprozess auf mit welchem man Personen dazu bewegen könnte einen sichereren Messenger als WhatsApp zu benutzen."
-icon: "eye_tracking"
+icon: "article"
 date: "2024-08-19T13:52:01+02:00"
 lastmod: "2024-08-19T13:52:01+02:00"
 draft: false
@@ -92,7 +92,7 @@ Und ob diese wie geplant funktioniert.
 
 ### 5. Testen
 
-Sobald ein Prototyp erstellt wurde ist es wichtig herauszufinden. ob dieser das Problem wirklich löst.
+Sobald ein Prototyp erstellt wurde ist es wichtig herauszufinden, ob dieser das Problem wirklich löst.
 Dabei ist es wichtig, dass der Prototyp mit echten Nutzern getestet wird.
 
 Bei diesen Tests ist es wichtig darauf zu Achten was die Benutzer machen und anschliessend

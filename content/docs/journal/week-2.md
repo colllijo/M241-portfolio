@@ -65,7 +65,7 @@ Des Weiter ermöglicht diese Method es schnell unterschiedliche Lösungen zu tes
 Umzusetzen, damit für alle eine Passende Lösung gefunden werden kann.
 
 **Ergebnis des Auftrags:**  
-[Privatsphäre](/docs/portfolio/handlungsziel-2/privatsphäre)
+[Messenger Wechsel](/docs/portfolio/handlungsziel-2/messenger_wechsel)
 
 **Feedback:**  
 Die Lösung ist gut und benötigt keine grösseren Anpassungen.
