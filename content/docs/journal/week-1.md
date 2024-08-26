@@ -108,3 +108,16 @@ In der Diskussion habe ich meine Erkenntnisse vorgestellt.
 Dabei hat sich herausgestellt, dass wir uns auf meine Gründe für die
 Missstände einigen konnten. Auch gegen meine Lösungsvorschläge gab es keine
 einwände.
+
+### Reflexion
+
+Mir ist diese Aufgabe etwas schwer gefallen, da für mich das Ziel nicht ganz klar war.
+Dazu finde ich die Definition von Erfolg und Misserfolg etwas subjektiv wodurch nicht alles
+klar ist. Dazu habe ich es nicht ganz einfach gefunden das Wachstum oder den Fall eines
+Konzerns an ein einziges Ereignis zu knüpfen.
+
+Dazu hatte ich das Gefühl, dass es in diesem Handlungsziel weniger zu lernen gab und es sich
+mehr um eine Recherche handelte.
+
+Dazu hatte ich während dem Unterricht wenig Zeit um an der Dokumentation zu arbeiten, da ich
+viel Zeit für das Lesen und Lösen der Aufgabe sowie der Recherche benötigt habe.
