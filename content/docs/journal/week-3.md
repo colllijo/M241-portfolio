@@ -57,7 +57,7 @@ welche es ermöglichen die Zielgruppe oder ein Teil der Zielgruppe zu repräsent
 Mit ihnen ist es einfacher Möglich die Zielgruppe im Kopf zu behalten und Entscheidungen zu treffen, welche auf die
 Zielgruppe zugeschnitten sind.
 
-[Personas - Wikipedia](https://de.wikipedia.org/wiki/Persona_(Mensch-Computer-Interaktion))
+[Personas - Wikipedia](<https://de.wikipedia.org/wiki/Persona_(Mensch-Computer-Interaktion)>)
 
 ## Erarbeitung
 
@@ -67,22 +67,23 @@ auszudenken und dann, die Erhebungsmethoden zu definieren und Personas dazu zu e
 Als Unternehmen habe ich mich für LEGO entschieden, da ich LEGO kenne und es für mich aus der Liste an Unternehmen
 herausgestochen ist.
 
-### Problemstellung
-
+**Problemstellung:**  
 LEGO, ein weltweit bekanntes Unternehmen für Spielzeugbausteine, hat in den letzten Jahren eine Herausforderung mit der Zielgruppe der Jugendlichen und jungen Erwachsenen (Alter 13-25) erlebt. Diese Altersgruppe zeigt ein abnehmendes Interesse an physischen Spielzeugen und wendet sich mehr digitalen Unterhaltungsformen wie Videospielen und sozialen Medien zu. Die Problemstellung besteht darin, wie LEGO das Interesse dieser Zielgruppe wiedererwecken und sie dazu bringen kann, die Freude am physischen Spielen wiederzuentdecken.
 
-### Erhebungsmethoden
+**Erhebungsmethoden:**  
+Für die Erhebungsmethoden habe ich mich einerseits für die Umfrage entschieden, da es so möglich ist viele Personen zu erreichen
+und möglichst viele und reflektive Antworten zu erhalten.  
+Dazu habe ich mir überlegt, dass Tiefeninterviews sinnvoll sind um die Gedankengänge und Bedürfnisse der Zielgruppe besser zu
+verstehen, dazu wäre es Möglich bereits erste Ideen vorzuschlagen und die Reaktion zu bewerten.
 
-1. **Online-Umfragen**: Online-Umfragen könnten dazu genutzt werden, um Daten über die Interessen, Hobbys und Freizeitaktivitäten der Zielgruppe zu sammeln. Diese Methode ist kosteneffizient und ermöglicht es, eine große Anzahl von Personen zu erreichen. Die Ergebnisse können dazu beitragen, zu verstehen, was diese Altersgruppe von einem Produkt wie LEGO erwartet.
+**Resultat:** [Kundenerhaltung Lego](/docs/portfolio/handlungsziel-3/kundenerhaltung-lego)
 
-2. **Tiefeninterviews**: Tiefeninterviews könnten dazu genutzt werden, um detailliertere Informationen über die Vorlieben und Abneigungen der Zielgruppe in Bezug auf LEGO zu erhalten. Diese Methode ermöglicht es, tiefer in die Gedanken und Gefühle der Zielgruppe einzudringen und möglicherweise neue Einsichten zu gewinnen, die durch eine Umfrage nicht erfasst werden könnten.
+## Kritische Reflexion
 
-# Personas
+Die Problemstellung war zu lange und es ist kein klares Problem darin ersichtlich.  
+Um das zu verbessern, habe ich die vorherige Problemstellung in mein Lernjournal übernommen
+und auf dem Portfolio eine klare Zusammenfassung eingefügt.
 
-1. **Persona 1 - "Der Gamer"**: Max, 15 Jahre alt, verbringt die meiste Zeit mit Videospielen und auf sozialen Medien. Er hat als Kind gerne mit LEGO gespielt, hat aber das Interesse verloren, als er älter wurde. Er schätzt kreative und herausfordernde Aktivitäten.
-
-2. **Persona 2 - "Die Künstlerin"**: Lisa, 20 Jahre alt, ist eine Kunststudentin, die gerne neue Materialien und Techniken ausprobiert. Sie hat LEGO nie als künstlerisches Medium in Betracht gezogen und sieht es eher als Kinderspielzeug.
-
-# Kritische Reflexion
-
-Nach der Diskussion mit meinem Lernpartner haben wir festgestellt, dass LEGO möglicherweise neue Produktlinien oder Marketingstrategien entwickeln muss, die speziell auf die Interessen und Bedürfnisse dieser Zielgruppe zugeschnitten sind. Zum Beispiel könnten sie Partnerschaften mit beliebten Videospielen eingehen oder Sets entwickeln, die komplexer und herausfordernder sind, um das Interesse der "Gamer"-Persona zu wecken. Für die "Künstlerin"-Persona könnten sie LEGO als kreatives Medium bewerben und Sets mit einer Vielzahl von Farben und Formen anbieten, die zum künstlerischen Ausdruck genutzt werden können.
+Die gewählten Erhebungsmethoden machen Sinn und sind gut gewählt.
+Auch die Personas klingen plausibel und könnten so in der Realität vorkommen.
+Dazu ist die Customer Journey gut beschrieben und gibt einen guten Einblick in die Gedankenwelt der Personas.
