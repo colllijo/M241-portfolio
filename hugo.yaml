@@ -9,7 +9,7 @@ module:
     extended: true
     min: "0.133.0"
   imports:
-    - path: github.com/gohugoio/hugo-mod-bootstrap-scss/v5
+    - path: github.com/colllijo/lotusdocs
       disable: false
 
 defaultContentLanguage: de
@@ -45,6 +45,7 @@ params:
     github: "colllijo/M241-portfolio"
   docs:
     # Core Options
+    landingPage: false
     pathName: "docs"
     themeColor: "green"
     darkMode: true

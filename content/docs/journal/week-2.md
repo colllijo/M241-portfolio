@@ -11,11 +11,11 @@ toc: true
 
 {{< table >}}
 
-| Thema                        | Beschreibung                                          |
-| ---------------------------- | ----------------------------------------------------- |
-| [Einführung](#einführung)    | Kurzegefasste Einführung zum Inhalt der zweiten Woche |
-| Inovationsmodelle            |                                                       |
-| Inovationsprozess erarbeiten |                                                       |
+| Thema                                        | Beschreibung                                                                       |
+| -------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Einführung](#einführung)                    | Kurzegefasste Einführung zum Inhalt der zweiten Woche                              |
+| [Inovationsmodelle](#innovationsmodelle)     | Vorstellung der verschieden Inovationsmodelle und kurze Beschreibung zu diesen     |
+| [Inovationsprozess erarbeiten](#erarbeitung) | Meine Vorgehensweise und Erkentnisse aus der Aufgabenstellung zum 2. Handlungsziel |
 
 {{< /table  >}}
 
@@ -28,27 +28,68 @@ Aufgabenstellungen und Team-Strukturen geeignet.
 
 ## Innovationsmodelle
 
-TBD
+Innovationsmodelle sind, Strukturen und Modelle, welche bei der Entdeckung und Umsetzung von Innovationen helfen.
+Dabei gibt es unterschiedliche Modelle, welche in unterschiedlichen Situationen und für unterschiedliche Zwecke
+angewandt werden können. Das Benutzen eines Innovationsmodell kann den Prozess der Innovation vereinfachen und
+besser strukturieren.
 
 ### Stage-Gate-Modell
 
-TBD
+Das Stage-Gate-Modell ist ein sehr strukturiertes Modell. Es unterteilt den Innovationsprozess in verschiedene Phasen (Stage),
+welche durch Schleusen (Gate) getrennt sind. Dabei wird jeweils eine Phase durchlaufen und am Ende findet eine Bewertung und
+Entscheidung, wird die Schleuse geöffnet und mit der nächsten Phase fortgefahren, muss etwas verändert werden oder wird das
+Projekt verworfen.
+
+#### Phasen
+
+1. **Entdeckungsphase:** Identifizierung von Ideen und Marktchancen.
+2. **Scope:** Grobe Prüfung und Machbarkeitsanalyse der Ideen.
+3. **Entwicklung:** Detaillierte Entwicklung und Prototyping.
+4. **Testen und Validieren:** Markt- und Produkttests sowie Validierung der Annahmen.
+5. **Markteinführung:** Kommerzialisierung und Markteinführung.
 
 ### Design Thinking
 
-TBD
+Das Design Thinking Modell fokussiert sich auf den Benutzer. Dieser wird dabei in den Mittelpunkt gestellt und
+dessen Bedürfnisse werden durch ein iteratives Vorgehen ermittelt und umgesetzt. Dabei werden durch schnelles Prototyping
+möglichst viele Ideen getestet damit die kreativsten und besten Lösungen gefunden werden können.
+
+#### Phasen
+
+1. **Verstehen:** Empathie für die Zielgruppe entwickeln und deren Bedürfnisse verstehen.
+2. **Definieren:** Das Problem klar definieren.
+3. **Ideenfindung:** Kreative Lösungen und Ideen generieren.
+4. **Prototyping:** Schnelle und kostengünstige Prototypen entwickeln.
+5. **Testen:** Prototypen mit echten Nutzern testen und Feedback einholen.
+6. **Iterieren:** Basierend auf dem Feedback die Lösungen weiterentwickeln und verbessern.
 
 ### Lean Startup
 
-TBD
+Lean Startup ist eine Innovationsmodell, welches durch Startups entwickelt wurde. Dabei zielt es darauf ab Ressourcen
+möglichst Effizient zu nutzen und schnellst Möglich auf Marktveränderungen zu reagieren können. Das Ziel hier ist es
+möglichst Schnell auf den Markt zu kommen und flexibel zu bleiben um neue Märkte zu erschliessen.
+
+#### Prinzipien
+
+1. Build-Measure-Learn: Zyklus aus schnellen Entwicklungsphasen, Messungen und Lernen.
+2. Minimum Viable Product (MVP): Entwicklung einer minimal funktionsfähigen Version des Produkts zur schnellen Validierung von Annahmen.
+3. Pivot or Persevere: Entscheidung, ob die eingeschlagene Richtung beibehalten oder verändert werden soll, basierend auf den gewonnenen Erkenntnissen.
 
 ### Open Innovation
 
-TBD
+Das Open Innovation Modell setzt auf die Zusammenarbeit mit externen Partnern und der Öffentlichkeit. Dabei wird
+auf die Schwarmintelligenz gesetzt um um innovative Lösungen zu finden.
+
+#### Schlüsselkomponenten
+
+1. Interne und externe Kollaboration: Einbeziehung von Partnern, Lieferanten, Kunden und anderen externen Akteuren in den Innovationsprozess.
+2. Lizenzierung und Co-Creation: Nutzung externer Technologien und Co-Creation- Partnerschaften.
+3. Crowdsourcing: Nutzung der Schwarmintelligenz durch offene Wettbewerbe und Plattformen.
 
 ## Innovationsmodell anwenden
 
-TBD
+Nach dem obigen Teil, in welchem es darum ging die Innovationsmodelle zu verstehen haben wird danach noch eine Aufgabe gelöst,
+in der wir das Wissen anwenden konnten. Dabei sollten wir ein Problem suchen und den Innovationsprozess für dieses Problem darstellen.
 
 ### Erarbeitung
 
@@ -71,7 +112,13 @@ Umzusetzen, damit für alle eine Passende Lösung gefunden werden kann.
 Die Lösung ist gut und benötigt keine grösseren Anpassungen.
 Es ist eine gut Erklärung des Prozessmodells mit hilfreichen Beispielen.
 
-Reflexion TBD
+### Reflexion
+
+Ich habe dieses Thema sehr hilfreich gefunden. Mit dem Wissen, dass ich heute gewonnen habe kann ich
+die losen Ideen zur Lösung eines Problems, welche ich bereits hatte zu fixen Modellen zusammenbauen.
+Das ermöglicht es mir Lösungen einfacher und geradliniger zu suchen.
+
+Ich habe das Gefühl, dass heute gelernte Wissen noch viel gebrauchen zu können.
 
 ### Quellen
 
