@@ -14,7 +14,7 @@ toc: true
 | Thema                       | Beschreibung                                          |
 | --------------------------- | ----------------------------------------------------- |
 | [Einführung](#einführung)   | Kurzegefasste Einführung zum Inhalt der zweiten Woche |
-| [Erarbeitung](#erarbeitung) |                                                       |
+| [Erarbeitung](#erarbeitung) | Meine Vorgehensweise zum Lösen des Auftrags           |
 
 {{< /table >}}
 
@@ -78,7 +78,7 @@ verstehen, dazu wäre es Möglich bereits erste Ideen vorzuschlagen und die Reak
 
 **Resultat:** [Kundenerhaltung Lego](/docs/portfolio/handlungsziel-3/kundenerhaltung-lego)
 
-## Kritische Reflexion
+### Kritische Reflexion
 
 Die Problemstellung war zu lange und es ist kein klares Problem darin ersichtlich.  
 Um das zu verbessern, habe ich die vorherige Problemstellung in mein Lernjournal übernommen
