@@ -23,7 +23,7 @@ Bildung, medizinischer Bildgebung und virtuellen Meetings.
 - Welche Funktionen und Eigenschaften erwarten potenzielle Kunden von einem Hologramm-Produkt?
 - Welche Art von Kundenservice und technischer Unterstützung wird erwartet?
 - Welche vergleichbaren Produkte bieten die Konkurrenten an?
-- Wie groß ist der aktuelle Markt für Hologramm-Technologie?
+- Wie gross ist der aktuelle Markt für Hologramm-Technologie?
 - Welche Wachstumsraten sind in diesem Markt zu erwarten?
 
 ### Frage 1: Welche Funktionen und Eigenschaften erwarten potenzielle Kunden von einem Hologramm-Produkt?
@@ -44,7 +44,7 @@ Bildung, medizinischer Bildgebung und virtuellen Meetings.
 - Datensammlung: Online-Recherche, Kauf und Testen von Konkurrenzprodukten
 - Herausforderungen: Zugang zu ausreichenden und genauen Informationen, schnelle Änderungen im Markt
 
-### Frage 4: Wie groß ist der aktuelle Markt für Hologramm-Technologie?
+### Frage 4: Wie gross ist der aktuelle Markt für Hologramm-Technologie?
 
 - Methoden: Sekundärforschung, Marktanalyse
 - Datensammlung: Online-Recherche, Analyse von Branchenberichten und Marktforschungsdaten
