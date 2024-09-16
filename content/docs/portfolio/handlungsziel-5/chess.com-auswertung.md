@@ -77,3 +77,9 @@ pie
     "Ja" : 37
     "Nein" : 27
 ```
+
+### Fazit
+
+Die Auswertung der Daten von chess.com zeigt, dass die Plattform eine aktive und engagierte Nutzerbasis hat, die sich über verschiedene Altersgruppen und Geschlechter erstreckt. Die Nutzer zeigen eine hohe Bereitschaft, für ein Abonnement zu zahlen, was auf die Wertschätzung der angebotenen Dienste hinweist. Die bevorzugten Spielarten sind kurze Partien, insbesondere Bullet und Rapid. 
+
+Diese Erkenntnisse legen nahe, dass chess.com gut positioniert ist, um weiteres Wachstum und Engagement zu fördern. Die Plattform könnte ihre Angebote für kurze Spiele weiter verbessern und ausbauen, um die Nutzer noch stärker zu binden. Darüber hinaus könnte die Bereitschaft der Nutzer, für ein Abonnement zu zahlen, genutzt werden, um zusätzliche Premium-Funktionen oder Dienste einzuführen.
