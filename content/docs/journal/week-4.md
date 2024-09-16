@@ -11,10 +11,12 @@ toc: true
 
 {{< table >}}
 
-| Thema                           | Beschreibung                                          |
-| ------------------------------- | ----------------------------------------------------- |
-| [Einführung](#einführung)       | Kurzegefasste Einführung zum Inhalt der zweiten Woche |
-| [Google Trends](#google-trends) | Kennenlernen und benutzen von Google Trends           |
+| Thema                             | Beschreibung                                                            |
+| --------------------------------- | ----------------------------------------------------------------------- |
+| [Einführung](#einführung)         | Kurzegefasste Einführung zum Inhalt der zweiten Woche                   |
+| [Google Trends](#google-trends)   | Kennenlernen und benutzen von Google Trends                             |
+| [Marktforschung](#marktforschung) | Prozess der Marktforschung durchgehen                                   |
+| [Datenerhebung](#datenerhebung)   | Datenerhebung für die Marktforschung des Produktes einer anderen Person |
 
 {{< /table  >}}
 
@@ -58,9 +60,10 @@ Für welche wir uns mit dem Prozess der Marktforschung beschäftigen mussten.
 
 ### Produkt finden
 
-Als Produkt habe ich mich für ein Whiteboard entschieden, welches es vereinfacht Hybrid Meetings
-zu veranstalten. So kann man damit, zum Beispiel Vor Ort auf das Whiteboard schreiben und alle,
-welche Remote teilnehmen sehen es direkt auf ihren Bildschirmen. Die Idee hatte ich,
+Als Produkt habe ich mich für ein Whiteboard entschieden, welches es vereinfacht
+Hybrid Meetings zu veranstalten. So kann man damit, zum Beispiel Vor Ort auf das
+Whiteboard schreiben und alle, welche Remote teilnehmen sehen es direkt auf ihren
+Bildschirmen und können selbst digital etwas dazu schreiben. Die Idee hatte ich,
 da wir letztens im Betrieb ein solches Board brauchen hätten können.
 
 **Zielgruppe:**  
@@ -74,27 +77,98 @@ auf dem Markt zu erhalten um einen fixen Umsatz zu generieren.
 
 #### Fragenkatalog
 
-- Gibt es ein Bedürfnis für dieses Produkt?
 - Welche Art von Unternehmen will dieses Produkt?
 - Gibt es bereits Produkte, welche das gleiche/etwas ähnliches tun?
-- Gab es bereits Ansätze ein solches Produkt zu entwickeln, was ist damit geschehen?
 - Wie viele Kunden/Produkte werden wir bedienen müssen?
-- Welche Funktionalitäten werden gebraucht?
 - Ist es Möglich mit Herstellern von Meeting-Software zusammenzuarbeiten?
-- Wie gross ist die potenzielle Zielgruppe für dieses Produkt?
 - Welche Bedürfnisse und Erwartungen hat die Zielgruppe an dieses Produkt?
 - Wie hoch ist die Zahlungsbereitschaft der Zielgruppe für dieses Produkt?
-- Welche Marketingkanäle sind am effektivsten, um die Zielgruppe zu erreichen?
-- Welche Konkurrenzprodukte gibt es bereits auf dem Markt und wie unterscheidet sich unser Produkt von diesen?
-- Welche Stärken und Schwächen hat unser Produkt im Vergleich zu den Konkurrenzprodukten?
-- Welche Trends oder Veränderungen in der Branche könnten die Nachfrage nach unserem Produkt beeinflussen?
-- Welche rechtlichen oder regulatorischen Hürden könnten die Markteinführung unseres Produkts beeinflussen?
-- Wie können wir unser Produkt weiterentwickeln oder verbessern, um es attraktiver für die Zielgruppe zu machen?
-- Welche Risiken und Herausforderungen könnten wir bei der Markteinführung unseres Produkts erwarten und wie können wir diese bewältigen?
-- Wie können wir die Kundenzufriedenheit und -loyalität nach der Markteinführung unseres Produkts sicherstellen und messen?
 
-### Datenerhebung
+#### Ergebnis
 
+Das Ergebnis meiner Arbeit kann zusammengefasst auf der
+[Portfolio Seite](/docs/portfolio/handlungsziel-4/hybrid-whiteboard) gefunden werden.
+
+## Datenerhebung
+
+Für die Datenerhebung erhielt ich den Auftrag zu definieren, wie die Fragen zur Marktforschung
+einer anderen Person am besten beantwortet werden können. Zu seinem Thema habe ich folgende
+Informationen erhalten:
+
+>### Thema: Hologramm
+>
+>Ein Hologramm ist ein dreidimensionales Bild, das durch die Interferenz von
+>Lichtwellen erzeugt wird und es dem Betrachter ermöglicht, das Objekt aus
+>verschiedenen Winkeln zu sehen. Moderne Hologramm-Technologien haben sich über
+>die einfache Darstellung von Bildern hinausentwickelt und können für eine
+>Vielzahl von Anwendungen eingesetzt werden, von Werbung und Kunst bis hin zu
+>Bildung, medizinischer Bildgebung und virtuellen Meetings.
+>
+>#### Potenzielle Zielgruppe
+>
+>1. **Alter**: 18-65 Jahre
+>2. **Geschlecht**: Keine spezifische Einschränkung, da Hologramme für verschiedene Zwecke verwendet werden können.
+>3. **Interessen**:
+>    - **Technologie-Enthusiasten**: Menschen, die an neuen Technologien interessiert sind.
+>    - **Unternehmen**: Insbesondere in den Bereichen Marketing, Werbung, und Vertrieb, die innovative Möglichkeiten suchen, um ihre Produkte zu präsentieren.
+>    - **Bildungssektor**: Lehrer und Institutionen, die interaktive und immersive Lernmethoden nutzen möchten.
+>    - **Medizinischer Sektor**: Ärzte und Forscher, die fortschrittliche Bildgebungsverfahren für Diagnosen und Schulungen verwenden.
+>    - **Unterhaltungsindustrie**: Für immersive Erlebnisse in Spielen, Konzerten, und Filmen.
+>
+>#### Ziele der Markteinführung
+>
+>1. **Marktanteil gewinnen**: Durch die Einführung eines innovativen Produkts soll ein signifikanter Anteil am Markt für interaktive Technologien erobert werden.
+>2. **Konkurrenz überholen**: Die Etablierung des Produkts als führende Technologie im Bereich der 3D-Darstellung, um sich von Mitbewerbern abzuheben.
+>3. **Eine Marktlücke schliessen**: Die Nachfrage nach immersiven, interaktiven und realistischen Präsentationsmöglichkeiten bedienen.
+>
+>#### Fragen und Anforderungen an die Marktforschung
+>
+>1. **Marktanalyse**:
+>    - Wie gross ist der aktuelle Markt für Hologramm-Technologie?
+>    - Welche Wachstumsraten sind in diesem Markt zu erwarten?
+>    - Welche Marktsegmente zeigen das grösste Interesse an Hologramm-Technologie?
+>    
+>1. **Wettbewerbsanalyse**:
+>    - Wer sind die Hauptakteure auf dem Markt?
+>    - Welche vergleichbaren Produkte bieten die Konkurrenten an?
+>    - Wie positionieren sich diese Produkte preislich und funktional?
+>    
+>1. **Zielgruppenanalyse**:
+>    - Welche demografischen Merkmale haben die potenziellen Kunden?
+>    - Welche spezifischen Bedürfnisse und Probleme könnten durch Hologramme gelöst werden?
+>    - Wie hoch ist die Zahlungsbereitschaft der Zielgruppe für Hologramm-Technologie?
+>    
+>1. **Produktanforderungen**:
+>    - Welche Funktionen und Eigenschaften erwarten potenzielle Kunden von einem Hologramm-Produkt?
+>    - Welche technischen Herausforderungen müssen überwunden werden, um die Erwartungen der Zielgruppe zu erfüllen?
+>    - Welche Anwendungsfälle sind für die Zielgruppe am relevantesten?
+>    
+>1. **Preisgestaltung**:
+>    - Welches Preismodell wird von der Zielgruppe bevorzugt (Einmalzahlung, Abonnement, Lizenzmodell)?
+>    - Wie sensibel ist die Zielgruppe gegenüber Preisänderungen?
+>    
+>1. **Marketingstrategie**:
+>    - Welche Kommunikationskanäle sind für die Zielgruppe am effektivsten?
+>    - Welche Botschaften und Werbemassnahmen könnten das grösste Interesse wecken?
+>    - Wie kann die Einführung des Produkts medial begleitet werden, um maximale Aufmerksamkeit zu erzeugen?
+>    
+>1. **Vertriebskanäle**:
+>    - Über welche Kanäle sollten die Hologramm-Produkte vertrieben werden (Online, Einzelhandel, Direktvertrieb)?
+>    - Welche Vertriebspartner könnten strategisch sinnvoll sein?
+>    
+>1. **Nutzererfahrung und Support**:
+>    - Welche Art von Kundenservice und technischer Unterstützung wird erwartet?
+>    - Wie wichtig ist die Benutzerfreundlichkeit für die Zielgruppe?
+>    - Welche Bedenken haben potenzielle Kunden hinsichtlich der Nutzung von Hologramm-Technologie?
+>    
+>1. **Rechtliche und ethische Überlegungen**:
+>    - Gibt es rechtliche oder ethische Bedenken, die bei der Markteinführung berücksichtigt werden müssen?
+>    - Wie wirkt sich der Datenschutz auf die Nutzung von Hologramm-Technologie aus?
+
+Um mir ein Bild der Gesamtsituation zu machen habe ich `CopilotChat` benutzt um die Fragen zu beantworten.
+Wie die Idee als ganzes analysiert werden kann. Folgend die Antwort:
+
+```plaintext
 Für die Datenerhebung wird eine Marktanalyse relevant sein. Da Hologramme eine noch weniger Verbreitete Technologie ist.
 Muss sichergestellt werden, dass die Nachfrage gross genug ist um die Entwicklungskosten zu decken.
 Dazu kann eine Umfrage bei potenziellen Kunden durchgeführt werden, um sicherzustellen, dass ein Bedürfnis gedeckt wird.
@@ -107,3 +181,7 @@ Eine grosse Potenzielle Herausforderung kann die Einführung des Produktes sein,
 es möglich das es sich in eine Nische entwickelt welche nur von einer Handvoll Kunden genutzt wird.
 Eine weitere Herausforderung wird es sein einen speziellen Anwendungsfall zu finden, welcher möglichst viel Erfolg verspricht,
 da viele Kunden unterschiedliche Ziele mit dem Hologramm haben werden. So muss der Fokus für das erste Produkt auf einen Anwendungsfall gesetzt werden.
+```
+
+Meine Beantwortung der einzelnen Fragen ist auf der [Hologram Marktforschung](/docs/portfolio/handlungsziel-4/hologram-marktforschung)
+festgehalten.
