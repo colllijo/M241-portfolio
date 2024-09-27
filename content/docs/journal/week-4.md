@@ -20,6 +20,12 @@ toc: true
 
 {{< /table  >}}
 
+{{< alert context="info" >}}
+
+Nutzen von Marktforschung kennen, primäre und sekundäre Marktforschung anwenden.
+
+{{< /alert >}}
+
 ## Einführung
 
 ## Google Trends

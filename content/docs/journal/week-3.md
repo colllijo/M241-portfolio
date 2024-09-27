@@ -18,6 +18,12 @@ toc: true
 
 {{< /table >}}
 
+{{< alert context="info" >}}
+
+Informationsbeschaffung durch klare Definition von Problemstellung & Persona
+
+{{< /alert >}}
+
 ## Einführung
 
 Heute haben wir das 3. Handlungsziel angeschaut. Welches sich mit der Informationsbeschaffung

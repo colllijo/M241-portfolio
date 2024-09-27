@@ -17,6 +17,14 @@ toc: true
 | [Erarbeitung](#erarbeitung) | Mein Vorgen zum Lösen des Arbeitsauftrags zum HZ 5    |
 
 {{< /table  >}}
+
+{{< alert context="info" >}}
+
+Marktforschung anwenden, Informationen auswerten und aussagekräftig darstellen.
+
+{{< /alert >}}
+
+
 ## Einführung
 
 Heute haben wir uns mit dem Auswerten und Erfassen von Daten beschäftigt.

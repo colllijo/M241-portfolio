@@ -19,6 +19,12 @@ toc: true
 
 {{< /table >}}
 
+{{< alert context="info" >}}
+
+Zusammenhänge zwischen Innovation und Wettbewerbsfähigkeit (Erfolg) verstehen, betriebliche Voraussetzungen / Hindernisse kennen und Beispiele nennen.
+
+{{< /alert >}}
+
 ## Einführung
 
 In der ersten Woche hatten wir eine Einführung in das neue Modul.  

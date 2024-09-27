@@ -19,6 +19,12 @@ toc: true
 
 {{< /table  >}}
 
+{{< alert context="info" >}}
+
+Innovationsmodelle verstehen und anwenden
+
+{{< /alert >}}
+
 ## Einführung
 
 Heute haben wir uns mit dem 2. Handlungsziel befasst. Dieses behandelt die unterschiedlichen Innovationsmodelle.

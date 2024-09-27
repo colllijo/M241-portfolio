@@ -20,6 +20,13 @@ toc: true
 
 {{< /table  >}}
 
+{{< alert context="info" >}}
+
+Lösungsvarianten bewerten.
+
+{{< /alert >}}
+
+
 ## Einführung
 
 Heute ging es um HZ 6, dass Bewerten von Lösungsvarianten. Ziel dabei war es
